@@ -137,18 +137,7 @@ export default (props) => {
         </Card>
         <Divider />
         <Space>
-        <GoogleLogin
-            clientId={GOOGLE_CLIENT_ID}
-            buttonText='Continue With Google'
-            onSuccess={handleGoogleResponse}
-            onFailure={(error) => {
-              setPressedGoogleLogin(false);
-              console.error(error);
-            }}
-            cookiePolicy={'single_host_origin'}
-            onRequest={() => setPressedGoogleLogin(true)}
-            disabled={pressedGoogleLogin}
-          />
+        
         </Space>
         {loginGoogleUserStatus.loading && (
           <Space>
