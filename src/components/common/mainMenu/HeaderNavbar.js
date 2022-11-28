@@ -26,7 +26,7 @@ export default () => {
               }}
             />
             <div className='headerNavbar__text'>
-              <span className='headerNavbar__text__item'>FRAS</span>
+              <span className='headerNavbar__text__item'>AUFR</span>
             </div>
           </div>
         </Link>
