@@ -13,7 +13,7 @@ export default () => {
         <Card>
           <Title level={2}>Terms and Conditions</Title>
 
-          <p>Welcome to AUFR!</p>
+          <p>Welcome to ASUFR!</p>
 
           <p>
             These terms and conditions outline the rules and regulations for the
@@ -50,7 +50,7 @@ export default () => {
           </h3>
 
           <p>
-            We employ the use of cookies. By accessing AUFR, you agreed
+            We employ the use of cookies. By accessing ASUFR, you agreed
             to use cookies in agreement with the Attendlytical's Privacy Policy.{" "}
           </p>
 
@@ -67,19 +67,19 @@ export default () => {
           </h3>
 
           <p>
-            Unless otherwise stated, AUFR and/or its licensors own the
+            Unless otherwise stated, ASUFR and/or its licensors own the
             intellectual property rights for all material on Attendlytical. All
             intellectual property rights are reserved. You may access this from
-            AUFR for your own personal use subjected to restrictions
+            ASUFR for your own personal use subjected to restrictions
             set in these terms and conditions.
           </p>
 
           <p>You must not:</p>
           <ul>
-            <li>Republish material from AUFR</li>
-            <li>Sell, rent or sub-license material from AUFR</li>
-            <li>Reproduce, duplicate or copy material from AUFR</li>
-            <li>Redistribute content from AUFR</li>
+            <li>Republish material from ASUFR</li>
+            <li>Sell, rent or sub-license material from ASUFR</li>
+            <li>Reproduce, duplicate or copy material from ASUFR</li>
+            <li>Redistribute content from ASUFR</li>
           </ul>
 
           <p>
@@ -111,7 +111,7 @@ export default () => {
           </p>
 
           <p>
-            AUFR reserves the right to monitor all Comments and to
+            ASUFR reserves the right to monitor all Comments and to
             remove any Comments which can be considered inappropriate, offensive
             or causes breach of these Terms and Conditions.
           </p>
@@ -140,7 +140,7 @@ export default () => {
           </ul>
 
           <p>
-            You hereby grant AUFR a non-exclusive license to use,
+            You hereby grant ASUFR a non-exclusive license to use,
             reproduce, edit and authorize others to use, reproduce and edit any
             of your Comments in any and all forms, formats or media.
           </p>
@@ -236,7 +236,7 @@ export default () => {
           </ul>
 
           <p>
-            No use of AUFR's logo or other artwork will be allowed for
+            No use of ASUFR's logo or other artwork will be allowed for
             linking absent a trademark license agreement.
           </p>
 

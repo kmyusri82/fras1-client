@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const { Footer } = Layout;
 export default () => (
   <Footer style={{ textAlign: 'center' }}>
-    <span>&copy; CHARIYA DTK JKE {new Date().getFullYear()}</span>
+    <span>&copy; CHARIYA @ JKE PTSS {new Date().getFullYear()}</span>
     <span>&nbsp;&nbsp;&nbsp; <Link to="/userguidelines">User Guidelines</Link></span>
   </Footer>
 );

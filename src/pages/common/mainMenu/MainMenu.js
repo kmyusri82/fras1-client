@@ -21,7 +21,7 @@ export default () => {
                 type="left"
                 mode="random"
               >
-                Attendance Using Face Recognition (AUFR)
+                Attendance System Using Face Recognition (ASUFR)
               </Texty>
             </Title>
             <Texty
