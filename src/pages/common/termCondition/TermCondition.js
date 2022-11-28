@@ -13,12 +13,12 @@ export default () => {
         <Card>
           <Title level={2}>Terms and Conditions</Title>
 
-          <p>Welcome to Attendlytical!</p>
+          <p>Welcome to AUFR!</p>
 
           <p>
             These terms and conditions outline the rules and regulations for the
             use of Attendlytical's Website, located at
-            https://attendlytical.netlify.app.
+            https://fras1.netlify.app.
           </p>
 
           <p>
@@ -50,7 +50,7 @@ export default () => {
           </h3>
 
           <p>
-            We employ the use of cookies. By accessing Attendlytical, you agreed
+            We employ the use of cookies. By accessing AUFR, you agreed
             to use cookies in agreement with the Attendlytical's Privacy Policy.{" "}
           </p>
 
@@ -67,19 +67,19 @@ export default () => {
           </h3>
 
           <p>
-            Unless otherwise stated, Attendlytical and/or its licensors own the
+            Unless otherwise stated, AUFR and/or its licensors own the
             intellectual property rights for all material on Attendlytical. All
             intellectual property rights are reserved. You may access this from
-            Attendlytical for your own personal use subjected to restrictions
+            AUFR for your own personal use subjected to restrictions
             set in these terms and conditions.
           </p>
 
           <p>You must not:</p>
           <ul>
-            <li>Republish material from Attendlytical</li>
-            <li>Sell, rent or sub-license material from Attendlytical</li>
-            <li>Reproduce, duplicate or copy material from Attendlytical</li>
-            <li>Redistribute content from Attendlytical</li>
+            <li>Republish material from AUFR</li>
+            <li>Sell, rent or sub-license material from AUFR</li>
+            <li>Reproduce, duplicate or copy material from AUFR</li>
+            <li>Redistribute content from AUFR</li>
           </ul>
 
           <p>
@@ -111,7 +111,7 @@ export default () => {
           </p>
 
           <p>
-            Attendlytical reserves the right to monitor all Comments and to
+            AUFR reserves the right to monitor all Comments and to
             remove any Comments which can be considered inappropriate, offensive
             or causes breach of these Terms and Conditions.
           </p>
@@ -140,7 +140,7 @@ export default () => {
           </ul>
 
           <p>
-            You hereby grant Attendlytical a non-exclusive license to use,
+            You hereby grant AUFR a non-exclusive license to use,
             reproduce, edit and authorize others to use, reproduce and edit any
             of your Comments in any and all forms, formats or media.
           </p>
@@ -236,7 +236,7 @@ export default () => {
           </ul>
 
           <p>
-            No use of Attendlytical's logo or other artwork will be allowed for
+            No use of AUFR's logo or other artwork will be allowed for
             linking absent a trademark license agreement.
           </p>
 
