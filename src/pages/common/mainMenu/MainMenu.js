@@ -21,7 +21,7 @@ export default () => {
                 type="left"
                 mode="random"
               >
-                Welcome to Face Recognition Attendance System (FRAS)
+                Attendance Using Face Recognition (AUFR)
               </Texty>
             </Title>
             <Texty
